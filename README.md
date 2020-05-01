@@ -1,6 +1,6 @@
 # Data_Science_Full_Specialization
  -------------
- This specialization holds many courses that have been given in the ssequence below.
+ This specialization holds many courses that have been given in the sequence below.
 
 The Numpy Stack in Python
 
@@ -33,3 +33,5 @@ Recurrent Neural Networks in Python
 Artificial Intelligence: Reinforcement Learning in Python
 
 Natural Language Processing with Deep Learning in Python
+
+GANs and Variational Autoencoders
