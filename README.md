@@ -34,4 +34,4 @@ Artificial Intelligence: Reinforcement Learning in Python
 
 Natural Language Processing with Deep Learning in Python
 
-GANs and Variational Autoencoders
+GANs (Generative Adversarial Networks) and Variational Autoencoders
