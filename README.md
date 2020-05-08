@@ -1,7 +1,7 @@
 # Data_Science_Full_Specialization
  -------------
  
-This specialization has a set of 18 courses which have been given in the following sequence below.
+- This specialization has a set of 18 courses which have been given in the following sequence below.
 
 The Numpy Stack in Python
 
