@@ -12,7 +12,7 @@ This specialization has a set of 18 courses which have been given in the followi
 - Practical Deep Learning in Theano and TensorFlow
 - Supervised Machine Learning in Python 2: Ensemble Methods
 - Convolutional Neural Networks in Python
-- Easy NLP
+- Easy Natural Language Processing
 - Cluster Analysis and Unsupervised Machine Learning
 - Unsupervised Deep Learning
 - Hidden Markov Models
