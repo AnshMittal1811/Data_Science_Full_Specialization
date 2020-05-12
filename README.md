@@ -3,7 +3,7 @@
  
 This specialization has a set of 18 courses which have been given in the following sequence below.
 
-- The Numpy Stack in Python
+- Numpy Stack in Python
 - Linear Regression in Python
 - Logistic Regression in Python
 - Supervised Machine Learning in Python
